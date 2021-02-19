@@ -1,4 +1,4 @@
-# openMINDS-metadata-creator
+# openMINDS-for-TVB-ready-data
 A Jupyter notebook for creating openMINDS JSON-LD metadata collections for TVB-ready data.
 
 CAUTION: This is not the official repository of the openMINDS schema specification. The code in this repository was used to generate openMINDS metadata for curation of TVB-on-EBRAINS datasets. For the current standard please refer to the repository of the openMINDS schema specification:
